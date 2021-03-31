@@ -1,2 +1,4 @@
 # TrafficviolationDetectionUsingOpenCV
 An automatic traffic red-light violation detection system was implemented, which may play a big role in transportation management in smart cities. The system mainly relies on modern computer vision techniques, which was implemented in OpenCV under Python environment. Mainly, the system consists of object detector and object tracker which work in an integrated manner in order to precisely keep position of the existing cars. The primary task of the system is to eventually indicate locations of violating vehicles. The output showed accurate results, as all violating vehicles were detected and distinguished precisely.
+
+Partailly Running code, 1 model is Running fine. The Masking Part is runnging with the 85% accuracy . The Cascade Model is still in the Testing mode, need some suggestion. We trying hard to get te Accuracy in the cascade model.  
